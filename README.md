@@ -1,0 +1,1 @@
+# Automate-Start-Stop-EC2-Instance-using-Lambda-Event-Bridge
